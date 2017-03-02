@@ -1,2 +1,6 @@
 coccoc.it@gmail.com
 vinh.nguyen@greenparking.vn
+
+git add *
+git commit " Add them "
+git push
